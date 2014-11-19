@@ -1,0 +1,23 @@
+.bigmama{
+	font-size: 600%;
+}
+
+#date_personale{
+	height: 34px;
+	border: 1px solid #CCC;
+	border-radius: 4px;
+	text-align: left;
+	font-size: 15px;
+}
+
+#sex{
+	height: 34px;
+	border: 1px solid #CCC;
+	border-radius: 4px;
+	text-align: left;
+}
+
+#hairpond{
+	vertical-align: middle;
+	padding-top: 20px;
+}
